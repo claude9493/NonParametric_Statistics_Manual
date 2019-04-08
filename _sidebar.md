@@ -1,2 +1,2 @@
 - Contents
-  - [One Sample Location Problem](OneSampleLocation/Readme.md)
+    - [One Sample Location Problem](OneSampleLocation/Readme.md)
