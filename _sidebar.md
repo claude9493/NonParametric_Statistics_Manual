@@ -1,2 +1,5 @@
-- Contents
-    - [One Sample Location Problem](OneSampleLocation/Readme.md)
+- [Home](/)
+- One-Sample Location Problem
+  - [One-Sample Location Problem](/OneSampleLocation/Readme.md)
+  - [Sign Test](/OneSampleLocation/Sign_Test.md)
+  - [Wilcoxon Signed Rank Test](/OneSampleLocation/Wilcoxon_Signed_Rank_Test.md)

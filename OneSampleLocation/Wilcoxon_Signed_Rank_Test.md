@@ -1,6 +1,4 @@
-# Signed Rank Test
-
-
+# Wilcoxon Signed Rank Test
 
 ## Hypothesis
 $$H_0: \theta = 0$$
