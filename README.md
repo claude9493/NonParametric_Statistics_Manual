@@ -15,7 +15,7 @@ Each folder includes some non-parametric tests for the problem specified by the 
 - [x] [One-Sample Location Problem][1]
   - [x] [Sign Test][2]
   - [x] [Wilcoxon Signed Rank Test][3]
-- [ ] Two-Sample Location Problem
+- [x] Two-Sample Location Problem
   - [ ] Wilcoxon Rank Sum Test
   - [ ] Mann-Whitney Test
   - [ ] Fligner-Policello Test

@@ -1,5 +1,7 @@
-- [Home](/)
 - One-Sample Location Problem
   - [One-Sample Location Problem](/OneSampleLocation/Readme.md)
   - [Sign Test](/OneSampleLocation/Sign_Test.md)
   - [Wilcoxon Signed Rank Test](/OneSampleLocation/Wilcoxon_Signed_Rank_Test.md)
+- Two-Sample Location Problem
+  - [Two-Sample Location Problem](/TwoSampleLocation/Readme.md)
+  - [Wilcoxon Rank Sum Test](/TwoSampleLocation/Wilcoxon_Rank_Sum_Test.md)
