@@ -8,24 +8,24 @@ In this manual, several non-parametric statistics methods are described in detai
 
 ## Instruction
 -----
-Each folder includes some non-parametric tests for the problem specified by the folder's name. In each file, the test statistics, rejection region, large smaple approximation and some other points are provided, detiles of the structure of single file are in [Structure](##Structure).
+Each folder includes some non-parametric tests for the problem specified by the folder's name. In each file, the test statistics, rejection region, large smaple approximation and some other points are provided, details of the structure of single file are in [Structure](#struc).
 
 ## Contents
 -----
-- [One-Sample Location Problem][1]
-  - [Sign Test][2]
-  - [Wilcoxon Signed Rank Test][3]
-- Two-Sample Location Problem
-  - Wilcoxon Rank Sum Test
-  - Mann-Whitney Test
-  - Fligner-Policello Test
-- Two-Sample Dispersion Problem
-  - Ansari-Bradley Test
-  - Siegel Tukey Test
-  - Lepage Test
-  - Kolmogorov-Smirnov Test
+- [x] [One-Sample Location Problem][1]
+  - [x] [Sign Test][2]
+  - [x] [Wilcoxon Signed Rank Test][3]
+- [ ] Two-Sample Location Problem
+  - [ ] Wilcoxon Rank Sum Test
+  - [ ] Mann-Whitney Test
+  - [ ] Fligner-Policello Test
+- [ ] Two-Sample Dispersion Problem
+  - [ ] Ansari-Bradley Test
+  - [ ] Siegel Tukey Test
+  - [ ] Lepage Test
+  - [ ] Kolmogorov-Smirnov Test
 
-## Structure
+## <span id="struc">Structure</span>
 -----
 - Hypothesis $H_0$, several $H_1$
 - Test Statistics (with explanation and its $\text{E}_0$ and $\text{Var}_0$)
