@@ -32,7 +32,7 @@ Discard the zero values and redefine $n$ to the number of **nonzero** $Z$'s.
 
 $$\hat{\theta}=\left\{\begin{array}{cc}{Z^{(k+1)}} & {n=2 k+1} \\ {\frac{Z^{(k)}+Z^{(k+1)}}{2}} & {n=2 k}\end{array}\right.$$
 
-- In calculating the estimator of $\theta$, we use all the $Z$, not discard this time.
+!> In calculating the estimator of $\theta$, we use all the $Z$, not discard this time.
 
 ## Confidence Interval
 ### Symmetric 2-sided
