@@ -21,5 +21,5 @@ same one) that is symmetric about a common median $\theta .$ If $F_{i}$ represen
 distribution function for $Z_{i}, i=1, \ldots n,$ this assumption requires that $F_{i}(\theta+t)+F_{i}(\theta-t)=1,$ for every $t$ and $i=1, \ldots, n$. The parameter $\theta$ is referred to as the treatment effect.
  -->
 
-[1]: .\Sign_Test.md "Sign Test"
-[2]: .\Wilcoxon_Signed_Rank_Test.md "Wilcoxon Signed Rank Test"
+[1]: .\OneSampleLocation\Sign_Test.md "Sign Test"
+[2]: .\OneSampleLocation\Wilcoxon_Signed_Rank_Test.md "Wilcoxon Signed Rank Test"
