@@ -15,7 +15,7 @@ Each folder includes some non-parametric tests for the problem specified by the 
 - [x] [One-Sample Location Problem][1]
   - [x] [Sign Test][2]
   - [x] [Wilcoxon Signed Rank Test][3]
-- [x] Two-Sample Location Problem
+- [x] [Two-Sample Location Problem][4]
   - [ ] Wilcoxon Rank Sum Test
   - [ ] Mann-Whitney Test
   - [ ] Fligner-Policello Test
@@ -38,4 +38,6 @@ Each folder includes some non-parametric tests for the problem specified by the 
 [1]: .\OneSampleLocation\Readme.md "One Sample Location Problem"
 [2]: .\OneSampleLocation\Sign_Test.md
 [3]: .\OneSampleLocation\Wilcoxon_Signed_Rank_Test.md
-[^1]: https://en.wikipedia.org/wiki/Nonparametric_statistics "Coppied from Wiki"
+[4]: .\TwoSampleLocation\Readme.md "Two Sample Location Problem"
+[5]: .\TwoSampleLocation\Wilcoxon_Rank_Sum_Test.md
+
