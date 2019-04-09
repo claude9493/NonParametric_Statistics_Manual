@@ -24,4 +24,4 @@ $$W^{*}=\frac{W-E_{0}(W)}{\sqrt{\operatorname{Var}_0(W)}} \sim N(0,1)$$
 Average the ranks of tied observations.
 
 - $\operatorname{Var}_{0}(W)=\frac{n m(N+1)}{12}-\frac{m n}{12 N(N-1)} \sum_{j=1}^{g}\left(t_{j}-1\right) t_{j}\left(t_{j}+1\right)$
-- W^{*}=\frac{W-E_{0}(W)}{\sqrt{\operatorname{Var}_{0}(W)}} \sim N(0,1)
+- $W^{*}=\frac{W-E_{0}(W)}{\sqrt{\operatorname{Var}_{0}(W)}} \sim N(0,1)$
