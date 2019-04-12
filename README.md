@@ -18,9 +18,9 @@ Each folder includes some non-parametric tests for the problem specified by the 
 - [x] [Two-Sample Location Problem][4]
   - [x] [Wilcoxon Rank Sum Test][5]
   - [x] [Mann-Whitney Test][6]
-  - [ ] Fligner-Policello Test
-- [ ] Two-Sample Dispersion Problem
-  - [ ] Ansari-Bradley Test
+  - [ ] [Fligner-Policello Test][7]
+- [ ] [Two-Sample Dispersion Problem][8]
+  - [x] [Ansari-Bradley Test][9]
   - [ ] Siegel Tukey Test
   - [ ] Lepage Test
   - [ ] Kolmogorov-Smirnov Test
@@ -43,4 +43,7 @@ Each folder includes some non-parametric tests for the problem specified by the 
 [4]: .\TwoSampleLocation\Readme.md "Two Sample Location Problem"
 [5]: .\TwoSampleLocation\Wilcoxon_Rank_Sum_Test.md "Wilcoxon Rank Sum Test"
 [6]: .\TwoSampleLocation\Mann_Whitney_Test.md "Mann-Whitney Test"
+[7]: .\TwoSampleLocation\Fligner_Policello_Test.md "Fligner_Policello Test"
+[8]: .\TwoSampleDispersion\Readme.md "Two-Sample Dispersion Problem"
+[9]: .\TwoSampleDispersion\Ansari_Bradley_Test.md "Ansari-Bradley Test"
 
