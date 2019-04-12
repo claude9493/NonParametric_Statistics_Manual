@@ -26,3 +26,5 @@ $H_1:$ There is a location shift
 
 
 [1]: .\TwoSampleLocation\Wilcoxon_Rank_Sum_Test.md "Wilcoxon Rank Sum Test"
+[2]: .\TwoSampleLocation\Mann_Whitney_Test.md "Mann Whitney Test"
+[3]: .\TwoSampleLocation\Fligner_Policello_Test.md "Fligner_Policello Test"

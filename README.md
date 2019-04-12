@@ -16,14 +16,16 @@ Each folder includes some non-parametric tests for the problem specified by the 
   - [x] [Sign Test][2]
   - [x] [Wilcoxon Signed Rank Test][3]
 - [x] [Two-Sample Location Problem][4]
-  - [ ] Wilcoxon Rank Sum Test
-  - [ ] Mann-Whitney Test
+  - [x] [Wilcoxon Rank Sum Test][5]
+  - [x] [Mann-Whitney Test][6]
   - [ ] Fligner-Policello Test
 - [ ] Two-Sample Dispersion Problem
   - [ ] Ansari-Bradley Test
   - [ ] Siegel Tukey Test
   - [ ] Lepage Test
   - [ ] Kolmogorov-Smirnov Test
+- [ ] One-Way Layout
+- [ ] Two-Way Layout
 
 ## <span id="struc">Structure</span>
 -----
@@ -36,8 +38,9 @@ Each folder includes some non-parametric tests for the problem specified by the 
 - Confidence Interval
 
 [1]: .\OneSampleLocation\Readme.md "One Sample Location Problem"
-[2]: .\OneSampleLocation\Sign_Test.md
-[3]: .\OneSampleLocation\Wilcoxon_Signed_Rank_Test.md
+[2]: .\OneSampleLocation\Sign_Test.md "Sign Test"
+[3]: .\OneSampleLocation\Wilcoxon_Signed_Rank_Test.md "Wilcoxon Signed Rank Test"
 [4]: .\TwoSampleLocation\Readme.md "Two Sample Location Problem"
-[5]: .\TwoSampleLocation\Wilcoxon_Rank_Sum_Test.md
+[5]: .\TwoSampleLocation\Wilcoxon_Rank_Sum_Test.md "Wilcoxon Rank Sum Test"
+[6]: .\TwoSampleLocation\Mann_Whitney_Test.md "Mann-Whitney Test"
 

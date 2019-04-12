@@ -2,7 +2,7 @@
 
 ## Hypothesis
 
-$H_0: \theta=\theta_0$
+$$H_0: \theta=\theta_0$$
 
 - One-sided Upper-Tail Test: $H_1: \theta > 0$, reject $H_0$ if $B\geq b_\alpha$
 - One-sided Lower-Tail Test: $H_2: \theta < 0$, reject $H_0$ if $B\leq n-b_\alpha$
