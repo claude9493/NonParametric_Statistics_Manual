@@ -27,6 +27,6 @@ $X \sim F(x), Y \sim G(y)$
 
 
 [1]: .\TwoSampleDispersion\Ansari_Bradley_Test.md "Ansari-Bradley Test"
-[2]:
-[3]:
-[4]:
+[2]: .\TwoSampleDispersion\Siegel_Tukey_Test.md "Siegal Tukey Test" 
+[3]: .\TwoSampleDispersion\Lepage_Test.md "Lepage Test" 
+[4]: .\TwoSampleDispersion\Kolmogorov_Simirnov_Test.md "Kolmogorov-Smirnov Test"

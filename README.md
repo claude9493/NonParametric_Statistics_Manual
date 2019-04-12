@@ -21,9 +21,9 @@ Each folder includes some non-parametric tests for the problem specified by the 
   - [ ] [Fligner-Policello Test][7]
 - [ ] [Two-Sample Dispersion Problem][8]
   - [x] [Ansari-Bradley Test][9]
-  - [ ] Siegel Tukey Test
-  - [ ] Lepage Test
-  - [ ] Kolmogorov-Smirnov Test
+  - [x] [Siegel Tukey Test][10]
+  - [x] [Lepage Test][11]
+  - [x] [Kolmogorov-Smirnov Test][12]
 - [ ] One-Way Layout
 - [ ] Two-Way Layout
 
@@ -46,4 +46,7 @@ Each folder includes some non-parametric tests for the problem specified by the 
 [7]: .\TwoSampleLocation\Fligner_Policello_Test.md "Fligner_Policello Test"
 [8]: .\TwoSampleDispersion\Readme.md "Two-Sample Dispersion Problem"
 [9]: .\TwoSampleDispersion\Ansari_Bradley_Test.md "Ansari-Bradley Test"
+[10]: .\TwoSampleDispersion\Siegel_Tukey_Test.md "Siegal Tukey Test" 
+[11]: .\TwoSampleDispersion\Lepage_Test.md "Lepage Test" 
+[12]: .\TwoSampleDispersion\Kolmogorov_Simirnov_Test.md "Kolmogorov-Smirnov Test"
 
