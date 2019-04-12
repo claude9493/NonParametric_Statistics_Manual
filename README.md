@@ -1,5 +1,5 @@
 # Manual of Non-Parametric Statistics
------
+
 > A manual/documentation of non-parametric statistics
 
 ## What it is
@@ -36,6 +36,14 @@ Each folder includes some non-parametric tests for the problem specified by the 
 - Tie
 - Estimator
 - Confidence Interval
+
+## Explanation of Some Common Variables
+-----
+- $N$ is always the sample size. In two sample problems, $N$ is usually the size of combined samples.
+- When we are talking about tie
+  - $g$ denotes the number of tied groups among all sample observations in the construction of test statistic
+  - $t_j$ is the size of tied group $j$
+  - $r_j$ is the average score associated with the observations in tied group $j$
 
 [1]: .\OneSampleLocation\Readme.md "One Sample Location Problem"
 [2]: .\OneSampleLocation\Sign_Test.md "Sign Test"
