@@ -48,5 +48,5 @@ Each folder includes some non-parametric tests for the problem specified by the 
 [9]: .\TwoSampleDispersion\Ansari_Bradley_Test.md "Ansari-Bradley Test"
 [10]: .\TwoSampleDispersion\Siegel_Tukey_Test.md "Siegal Tukey Test" 
 [11]: .\TwoSampleDispersion\Lepage_Test.md "Lepage Test" 
-[12]: .\TwoSampleDispersion\Kolmogorov_Simirnov_Test.md "Kolmogorov-Smirnov Test"
+[12]: .\TwoSampleDispersion\Kolmogorov_Smirnov_Test.md "Kolmogorov-Smirnov Test"
 
