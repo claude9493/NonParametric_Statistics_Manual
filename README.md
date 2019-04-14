@@ -24,7 +24,12 @@ Each folder includes some non-parametric tests for the problem specified by the 
   - [x] [Siegel Tukey Test][10]
   - [x] [Lepage Test][11]
   - [x] [Kolmogorov-Smirnov Test][12]
-- [ ] One-Way Layout
+- [x] [One-Way Layout][13]
+  - [x] [Kruskal Wallis Test][14]
+  - [x] [Jonckheere-Terpstra Test][15]
+  - [x] [Mack-Wolfe Test][16]
+  - [x] [Fligner-Wolfe Test][17]
+  - [x] [Dwass-Steel-Critchlow-Fligner Test][18]
 - [ ] Two-Way Layout
 
 ## <span id="struc">Structure</span>
@@ -57,4 +62,9 @@ Each folder includes some non-parametric tests for the problem specified by the 
 [10]: .\TwoSampleDispersion\Siegel_Tukey_Test.md "Siegal Tukey Test" 
 [11]: .\TwoSampleDispersion\Lepage_Test.md "Lepage Test" 
 [12]: .\TwoSampleDispersion\Kolmogorov_Smirnov_Test.md "Kolmogorov-Smirnov Test"
-
+[13]: ./OneWayLayout/Readme.md "One-Way Layout"
+[14]: ./OneWayLayout/Kruskal_Wallis_Test.md "Kruskal Wallis Test"
+[15]: ./OneWayLayout/Jonckheere_Terpstra_Test.md "Jonckheere-Terpstra Test"
+[16]: ./OneWayLayout/Mack_Wolfe_Test.md "Mack-Wolfe Test"
+[17]: ./OneWayLayout/Fligner_Wolfe_Test.md "Fligner-Wolfe Test"
+[18]: ./OneWayLayout/Dwass_Steel_Critchlow_Fligner_Test.md "Dwass-Steel-Critchlow-Fligner Test"
