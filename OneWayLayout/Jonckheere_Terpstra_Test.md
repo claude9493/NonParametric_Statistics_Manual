@@ -28,11 +28,3 @@ as min$(n_1,\dots,n_k)\rightarrow\infty$. Reject $H_0$ if $J^{*} \geq z_{\alpha}
 ## Tie
 $$E_{0}(J)=\frac{N^{2}-\sum_{j=1}^{k} n_{j}^{2}}{4}$$
 ![](..\Figures\Jonckheere_Terpstra_Tie.png)
-
-$$
-\begin{split}
-\operatorname{Var}_{0}(J) \quad &= \quad \frac{1}{72}\left[N(N-1)(2 N+5)-\sum_{i=1}^{k} n_{i}\left(n_{i}-1\right)\left(2 n_{i}+5\right)-\sum_{j=1}^{g} t_{j}\left(t_{j}-1\right)\left(2 t_{j}+5\right)\right]\\
-&+ \frac{1}{36 N(N-1)(N-2)}\left[\sum_{i=1}^{k} n_{i}\left(n_{i}-1\right)\left(n_{i}-2\right)\right]\left[\sum_{j=1}^{g} t_{j}\left(t_{j}-1\right)\left(t_{j}-2\right)\right]\\
-&+\frac{1}{8 N(N-1)}\left[\sum_{i=1}^{k} n_{i}\left(n_{i}-1\right)\right]\left[\sum_{j=1}^{g} t_{j}\left(t_{j}-1\right)\right]
-\end{split}
-$$
