@@ -50,6 +50,8 @@ Each folder includes some non-parametric tests for the problem specified by the 
   - $t_j$ is the size of tied group $j$
   - $r_j$ is the average score associated with the observations in tied group $j$
 
+!> Power = probability of rejecting $H_0$, given that $H_0$ is false
+
 [1]: .\OneSampleLocation\Readme.md "One Sample Location Problem"
 [2]: .\OneSampleLocation\Sign_Test.md "Sign Test"
 [3]: .\OneSampleLocation\Wilcoxon_Signed_Rank_Test.md "Wilcoxon Signed Rank Test"
