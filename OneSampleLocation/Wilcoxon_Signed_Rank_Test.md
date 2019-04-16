@@ -3,7 +3,9 @@
 ## Hypothesis
 $$H_0: \theta = 0$$
 
-- For $H_1: \theta>0$, reject $H_0$ if $T^+\geq t_\alpha$
+- For $H_1: \theta>0$, reject $H_0$ if $T^+\geq t_\alpha$ or $T^*\geq z_\alpha$
+- For $H_{1} : \theta<0,$ reject $H_{0}$ if $T^{+} \leq \frac{n(n+1)}{2}-t_{\alpha} .$ or $T^*\leq -z_\alpha$ 
+- For $H_{1} : \theta \neq 0,$ reject $H_{0}$ if $T^{+} \geq t_{\alpha / 2}, T^{+} \leq \frac{n(n+1)}{2}-t_{\alpha / 2}$ or $|T^*|\geq z_{\alpha/2}$
 
 ## Test Statistics
 
@@ -24,9 +26,6 @@ $$E_{0}\left(T^{+}\right)=\frac{n(n+1)}{4},\quad\operatorname{Var}_{0}\left(T^{+
 
 $$T^{*}=\frac{T^{+}-E\left(T^{+}\right)}{\sqrt{\operatorname{Var}\left(T^{*}\right)}} \sim N(0,1)$$
 
-For $H_{1} : \theta<0,$ reject $H_{0}$ if $T^{+} \leq \frac{n(n+1)}{2}-t_{\alpha} .$
-
-For $H_{1} : \theta \neq 0,$ reject $H_{0}$ if $T^{+} \geq t_{\alpha / 2}, T^{+} \leq \frac{n(n+1)}{2}-t_{\alpha / 2}$
 
 ## Ties
 
