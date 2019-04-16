@@ -4,9 +4,9 @@
 
 $$H_0: \theta=\theta_0$$
 
-- One-sided Upper-Tail Test: $H_1: \theta > 0$, reject $H_0$ if $B\geq b_\alpha$
-- One-sided Lower-Tail Test: $H_2: \theta < 0$, reject $H_0$ if $B\leq n-b_\alpha$
-- Two-sided Test: $H_3: \theta\neq0$, reject $H_0$ if $B\geq b_{\alpha/2}$ or  $B\leq n-b_{\alpha/2}$
+- One-sided Upper-Tail Test: $H_1: \theta > 0$, reject $H_0$ if $B\geq b_\alpha$ or $B^*\geq z_\alpha$
+- One-sided Lower-Tail Test: $H_2: \theta < 0$, reject $H_0$ if $B\leq n-b_\alpha$ or $B^*\leq-z_\alpha$
+- Two-sided Test: $H_3: \theta\neq0$, reject $H_0$ if $B\geq b_{\alpha/2}$ or  $B\leq n-b_{\alpha/2}$ OR if $|B^*|\geq z_{\alpha/2}$
 
 ## Test Statistics
 $$B = \sum_{i=1}^n\phi_i$$
@@ -17,8 +17,8 @@ $$B\sim Binomial(n, 1/2)$$
 $$E_0(B)=\frac{n}{2},\quad Var_0(B)=\frac{n}{4}$$
 
 ## Large Sample Approximation
-
-$$B^*=\frac{B-\frac{n}{2}}{\sqrt{\frac{n}{4}}}$$
+As $n\rightarrow\infty$,
+$$B^*=\frac{B-\frac{n}{2}}{\sqrt{\frac{n}{4}}}\sim N(0,1)$$
 
 ## Ties
 
