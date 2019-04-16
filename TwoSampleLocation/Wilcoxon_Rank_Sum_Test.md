@@ -3,8 +3,9 @@
 ## Hypothesis
 $$H_0: \Delta=0$$
 
-- $H_1: \Delta>0$, reject $H_0$ if $W\geq w_\alpha$
-- $H_1: \Delta < 0$, reject $H_0$ if $W\leq n(m+n+1)-w_\alpha$
+- $H_1: \Delta>0$, reject $H_0$ if $W\geq w_\alpha$ or $W^*\geq z_\alpha$
+- $H_1: \Delta < 0$, reject $H_0$ if $W\leq n(m+n+1)-w_\alpha$ or $W^*\leq-z_\alpha$
+- $H_1: \Delta\neq0$, reject $H_0$ if $W \geq w_{\alpha / 2} \text { or if } W \leq n(m+n+1)-w_{\alpha / 2}$  OR $|W^*|\geq z_{\alpha/2}$
 
 ## Test Statistics
 $$W=\sum_{j=1}^{n} S_{j}$$
